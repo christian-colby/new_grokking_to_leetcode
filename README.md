@@ -179,7 +179,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
-- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [X] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 ## Backtracking
 
