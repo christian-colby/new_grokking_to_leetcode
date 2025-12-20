@@ -97,9 +97,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
-- [ ] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
+- [X] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
 
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [X] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 ## Two Heaps
 
@@ -233,7 +233,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Cyclic Sort
 
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/)
 
 - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
