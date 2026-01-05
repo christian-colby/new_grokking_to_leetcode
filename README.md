@@ -203,7 +203,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 
-- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [X] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
