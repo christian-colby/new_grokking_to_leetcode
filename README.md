@@ -187,13 +187,13 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [X] [Word Search](https://leetcode.com/problems/word-search/)
 
 - [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
 - [ ] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
-- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [X] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
@@ -203,7 +203,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [0/1 Knapsack]()?
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 - [X] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
