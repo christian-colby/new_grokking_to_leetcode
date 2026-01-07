@@ -189,7 +189,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Word Search](https://leetcode.com/problems/word-search/)
 
-- [X] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+- [X] [House Robber III](https://leetcode.com/problems/house-robber-iii/) try dp sol as well
 
 - [X] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
