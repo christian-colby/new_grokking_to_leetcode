@@ -197,7 +197,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
-- [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+- [X] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)? (understand dp solution and masking)
 
 ## Dynamic Programming
 
