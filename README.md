@@ -191,7 +191,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
-- [ ] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+- [X] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
 - [X] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
