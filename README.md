@@ -195,7 +195,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
-- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [X] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
 - [X] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)? (understand dp solution and masking)
 
