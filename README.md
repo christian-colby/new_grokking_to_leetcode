@@ -185,7 +185,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 ## Backtracking
 
-- [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
+- [X] [N-Queens](https://leetcode.com/problems/n-queens/)
 
 - [X] [Word Search](https://leetcode.com/problems/word-search/)
 
