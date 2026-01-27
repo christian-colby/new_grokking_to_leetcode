@@ -149,11 +149,11 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
-- [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+- [X] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
-- [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+- [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
 - [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
