@@ -155,7 +155,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
-- [X] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [X] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) (figure out more about the optimal solutions here, read through the solution generally)
 
 - [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
