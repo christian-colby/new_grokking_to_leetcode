@@ -207,7 +207,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
-- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [X] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) (check on this exact solution again)
 
 - [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
