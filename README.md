@@ -209,7 +209,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 - [X] [01 Matrix](https://leetcode.com/problems/01-matrix/)?
 
@@ -231,7 +231,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## Cyclic Sort
 
