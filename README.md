@@ -219,9 +219,9 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [X] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (consider understanding the fancy solutoin)
 
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [X] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
