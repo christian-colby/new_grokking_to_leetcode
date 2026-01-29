@@ -223,7 +223,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [X] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
