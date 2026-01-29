@@ -225,9 +225,9 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) !!! REVIEW
 
-- [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [X] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
