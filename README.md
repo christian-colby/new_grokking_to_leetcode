@@ -213,7 +213,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [01 Matrix](https://leetcode.com/problems/01-matrix/)?
 
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [X] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
 - [X] [Word Break](https://leetcode.com/problems/word-break/)?
 
@@ -421,17 +421,17 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 ## Bitwise Manipulation
 
-- [ ] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+- [X] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 
-- [ ] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
+- [X] [Complement of Base 10 Number](https://leetcode.com/problems/complement-of-base-10-integer/)
 
-- [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [X] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
+- [X] [Single Number](https://leetcode.com/problems/single-number/)
 
-- [ ] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
+- [ ] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/) (single number II should be reviewed again, it has some crazy solution)
 
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [X] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) (has good insight in the explanation)
 
 ## Challenge Yourself
 
