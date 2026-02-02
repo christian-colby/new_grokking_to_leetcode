@@ -1,5 +1,7 @@
 # Mapping the new Grokking Coding Interview Patterns course to LeetCode
 
+Maybe good (https://blog.algomaster.io/p/15-leetcode-patterns)
+
 ## Personalized Mock Interview
 You can use this custom GPT to do a sample interview.
 
