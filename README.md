@@ -245,7 +245,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
 
-- [ ] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
+- [X] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ## Topological Sort
 
