@@ -241,7 +241,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
-- [ ] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [X] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 - [X] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
 
