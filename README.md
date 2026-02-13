@@ -371,13 +371,13 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 ## Knowing What to Track
 
-- [ ] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
+- [X] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [X] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
 - [X] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [X] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
