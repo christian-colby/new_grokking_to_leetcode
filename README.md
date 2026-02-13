@@ -473,7 +473,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 - [ ] [Design File System](https://leetcode.com/problems/design-file-system/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [X] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings)
 
