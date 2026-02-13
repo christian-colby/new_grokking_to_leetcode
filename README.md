@@ -375,7 +375,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
-- [ ] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
+- [X] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
