@@ -49,7 +49,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Two Pointers
 - [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [X] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [X] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
@@ -67,9 +67,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
@@ -343,7 +343,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 ## Trie
 
-- [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [X] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 - [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
@@ -359,9 +359,9 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
-- [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+- [X] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
-- [ ] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+- [X] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
 - [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
@@ -381,11 +381,11 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [X] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [X] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [X] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 ## Union Find
 
@@ -411,11 +411,11 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
-- [ ] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [X] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
-- [ ] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [X] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-- [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [X] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 
