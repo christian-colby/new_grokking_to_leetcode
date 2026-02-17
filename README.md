@@ -57,7 +57,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [X] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
 
@@ -65,13 +65,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-- [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+- [X] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
 - [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 - [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [X] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## Merge Intervals
 
@@ -109,7 +109,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
-- [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 - [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
@@ -125,17 +125,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
-- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [X] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)? REVIEW and do actual binary search solution
 
 ## Top K Elements
 
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [X] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
       
 - [X] [Reorganize String](https://leetcode.com/problems/reorganize-string/)?(goes with task scheduler)
 
 - [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)? (more binary range searches kindve)
 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (bucket sort is useful here)
 
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
@@ -167,7 +167,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [X] [Permutations](https://leetcode.com/problems/permutations/)
 
-- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [X] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 - [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
@@ -253,17 +253,17 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
-- [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+- [X] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
-- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [X] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 - [ ] [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
 
 ## Matrices
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [X] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 
