@@ -389,9 +389,9 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 ## Union Find
 
-- [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+- [X] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 
