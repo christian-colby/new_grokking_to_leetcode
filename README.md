@@ -395,7 +395,7 @@ https://leetcode.com/discuss/post/786126/python-powerful-ultimate-binary-search-
 
 - [ ] [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+- [X] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
 - [ ] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
